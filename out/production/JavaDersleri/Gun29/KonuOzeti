@@ -1,0 +1,16 @@
+
+
+Access Modifiers (erisim belirtecleri, izinler)
+
+puplic, private, protected,default(hic bir sey yazilmayan durum,friedly)
+1- classsin icinden erisim
+2-paketin icinden erisim
+3-projenin icinden erisim
+
+ public: projenin ve tum paketlerin her tarafindan erisim olan demektir class method field
+
+ default: (friendly); bir belirtec yazilmazsa; sadece paketler erisebilir
+
+ private; sadece class in icinden erisim vardir metod field
+
+ protected; default ayni calisir, bir ozelligi var
